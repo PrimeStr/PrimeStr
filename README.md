@@ -14,17 +14,61 @@
 ***
 
 ## Have a look at what I'm doing
+
+### [Alfa Bank IDP](https://github.com/Alfa-PDP/backend)
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-%200.100.1-blue?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%202.0.25-blue?style=flat-square&logo=sqlalchemy)](https://www.sqlalchemy.org/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-%202.5.3-blue?style=flat-square&logo=pydantic)](https://docs.pydantic.dev/latest/)
+[![Redis](https://img.shields.io/badge/Redis-%204.6.0-blue?style=flat-square&logo=redis)](https://redis.io/)
+[![Alembic](https://img.shields.io/badge/Alembic-%202.5.3-blue?style=flat-square&logo=sqlite)](https://alembic.sqlalchemy.org/en/latest/)\
+[![Swagger](https://img.shields.io/badge/Swagger-black?style=flat-square&logo=swagger)](https://swagger.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions)](https://github.com/features/actions)
+
+FastAPI microservice for creating individual development plans for Alfa Bank employees.
+
+[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Alfa-PDP&repo=backend)](https://github.com/Alfa-PDP/backend)
+
+
+### [Prosept Matching](https://github.com/Prosept-4/backend_Django)
+
+[![Django](https://img.shields.io/badge/Django-%203.2.18-blue?style=flat-square&logo=django)](https://www.djangoproject.com/)
+[![DRF](https://img.shields.io/badge/DjangoRESTFramework-%203.14.0-blue?style=flat-square&logo=django)](https://www.django-rest-framework.org/)
+[![Celery](https://img.shields.io/badge/Celery-%205.2.7-blue?style=flat-square&logo=celery)](https://docs.celeryq.dev/en/stable/)
+[![Redis](https://img.shields.io/badge/Redis-%205.0.0-blue?style=flat-square&logo=redis)](https://redis.io/)
+[![Swagger](https://img.shields.io/badge/Swagger-%201.21.7-blue?style=flat-square&logo=swagger)](https://swagger.io/)
+[![Docker](https://img.shields.io/badge/Docker-%2024.0.5-blue?style=flat-square&logo=docker)](https://www.docker.com/)
+[![DockerCompose](https://img.shields.io/badge/Docker_Compose-%202.21.0-blue?style=flat-square&logo=docsdotrs)](https://docs.docker.com/compose/)\
+Service designed to create matches between dealer products and manufacturer products.
+
+[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Prosept-4&repo=backend_Django)](https://github.com/Prosept-4/backend_Django)
+
+### [CareerHub](https://github.com/PrimeStr/Hackathon-YPxCT)
+
+[![Django](https://img.shields.io/badge/Django-%203.2.18-blue?style=flat-square&logo=django)](https://www.djangoproject.com/)
+[![DRF](https://img.shields.io/badge/DjangoRESTFramework-%203.14.0-blue?style=flat-square&logo=django)](https://www.django-rest-framework.org/)
+[![Celery](https://img.shields.io/badge/Celery-%205.2.7-blue?style=flat-square&logo=celery)](https://docs.celeryq.dev/en/stable/)
+[![Redis](https://img.shields.io/badge/Redis-%205.0.0-blue?style=flat-square&logo=redis)](https://redis.io/)
+[![Swagger](https://img.shields.io/badge/Swagger-%201.21.7-blue?style=flat-square&logo=swagger)](https://swagger.io/)
+[![Docker](https://img.shields.io/badge/Docker-%2024.0.5-blue?style=flat-square&logo=docker)](https://www.docker.com/)
+[![DockerCompose](https://img.shields.io/badge/Docker_Compose-%202.21.0-blue?style=flat-square&logo=docsdotrs)](https://docs.docker.com/compose/)\
+Platform for HR specialists, providing opportunities to create vacancies, search for students, compare and filter candidates.
+
+[![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=PrimeStr&repo=Hackathon-YPxCT)](https://github.com/PrimeStr/Hackathon-YPxCT)
+
+
 ### [Meteo Assistant Bot](https://github.com/PrimeStr/meteo_assistant_bot)
 ![](https://img.shields.io/badge/Aiogram-20.25.1-blue) ![](https://img.shields.io/badge/AioHTTP-3.8.5-blue) \
 Telegram bot that provides users with weather on request.
 
-[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=PrimeStr&repo=meteo_assistant_bot)](https://github.com/PrimeStr/meteo_assistant_bot)
+[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=PrimeStr&repo=meteo_assistant_bot)](https://github.com/PrimeStr/meteo_assistant_bot)
 
-### [YaMDb project](https://github.com/PrimeStr/api_yamdb)
+### [RateHub project](https://github.com/PrimeStr/api_yamdb)
 ![](https://img.shields.io/badge/Django-3.2-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/SimpleJWT-4.7.2-blue) ![](https://img.shields.io/badge/django--import--export-3.2-blue) ![](https://img.shields.io/badge/pytest-6.2.4-blue) \
 API service that collects user feedback on artworks such as music, movies, books, etc
 
-[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=PrimeStr&repo=api_yamdb)](https://github.com/PrimeStr/api_yamdb)
+[![Readme Card 5](https://github-readme-stats.vercel.app/api/pin/?username=PrimeStr&repo=api_RateHub)](https://github.com/PrimeStr/api_RateHub)
 
 
 ***
