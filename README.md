@@ -13,7 +13,7 @@
 
 ***
 
-## Have a look at what I'm doing
+## Have a look at what I've done
 
 ### [Alfa Bank IDP](https://github.com/Alfa-PDP/backend)
 
@@ -30,6 +30,7 @@ FastAPI microservice for creating individual development plans for Alfa Bank emp
 
 [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Alfa-PDP&repo=backend)](https://github.com/Alfa-PDP/backend)
 
+***
 
 ### [Prosept Matching](https://github.com/Prosept-4/backend_Django)
 
@@ -44,6 +45,8 @@ Service designed to create matches between dealer products and manufacturer prod
 
 [![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Prosept-4&repo=backend_Django)](https://github.com/Prosept-4/backend_Django)
 
+***
+
 ### [CareerHub](https://github.com/PrimeStr/Hackathon-YPxCT)
 
 [![Django](https://img.shields.io/badge/Django-%203.2.18-blue?style=flat-square&logo=django)](https://www.djangoproject.com/)
@@ -57,6 +60,7 @@ Platform for HR specialists, providing opportunities to create vacancies, search
 
 [![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=PrimeStr&repo=Hackathon-YPxCT)](https://github.com/PrimeStr/Hackathon-YPxCT)
 
+***
 
 ### [Meteo Assistant Bot](https://github.com/PrimeStr/meteo_assistant_bot)
 ![](https://img.shields.io/badge/Aiogram-20.25.1-blue) ![](https://img.shields.io/badge/AioHTTP-3.8.5-blue) \
@@ -64,12 +68,13 @@ Telegram bot that provides users with weather on request.
 
 [![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=PrimeStr&repo=meteo_assistant_bot)](https://github.com/PrimeStr/meteo_assistant_bot)
 
+***
+
 ### [RateHub project](https://github.com/PrimeStr/api_yamdb)
 ![](https://img.shields.io/badge/Django-3.2-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/SimpleJWT-4.7.2-blue) ![](https://img.shields.io/badge/django--import--export-3.2-blue) ![](https://img.shields.io/badge/pytest-6.2.4-blue) \
 API service that collects user feedback on artworks such as music, movies, books, etc
 
 [![Readme Card 5](https://github-readme-stats.vercel.app/api/pin/?username=PrimeStr&repo=api_RateHub)](https://github.com/PrimeStr/api_RateHub)
-
 
 ***
 
