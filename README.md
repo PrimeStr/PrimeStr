@@ -26,7 +26,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions)](https://github.com/features/actions)
 
-FastAPI microservice for creating individual development plans for Alfa Bank employees.
+FastAPI microservice for creating individual development plans for Alfa Bank employees.\
 The project was awarded in the category "The Best work of Backend Developers".
 
 [![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Alfa-PDP&repo=backend)](https://github.com/Alfa-PDP/backend)
